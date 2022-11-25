@@ -1,0 +1,1 @@
+// The external store is something which we can subscribe to. Examples of the external store include Redux store, Zustand store, global variables, module scope variables, DOM state, etc.

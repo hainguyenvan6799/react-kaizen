@@ -1,0 +1,12 @@
+.useTransitionSample {
+    display: flex;
+    width: 100%;
+}
+
+.title {
+  text-align: center;
+}
+
+.container {
+  margin-left: 100px;
+}

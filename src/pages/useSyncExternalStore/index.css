@@ -1,0 +1,19 @@
+.notUsingUseSyncExternalLibrary {
+    border: 1px solid black;
+    float: left;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 200px;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+}
+
+.usingUseSyncExternalLibrary {
+    float: left;
+    border: 1px solid black;
+    width: 300px;
+    height: 200px;
+    margin-top: 200px;
+    padding: 20px;
+}
